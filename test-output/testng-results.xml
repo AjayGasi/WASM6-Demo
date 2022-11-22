@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-22T11:17:06 IST" name="Default suite" finished-at="2022-11-22T11:17:06 IST" duration-ms="214">
+    <groups>
+    </groups>
+    <test started-at="2022-11-22T11:17:06 IST" name="Default test" finished-at="2022-11-22T11:17:06 IST" duration-ms="214">
+      <class name="Demo.PracticeTestForPullRequestGitHub">
+        <test-method signature="pullRequest()[pri:0, instance:Demo.PracticeTestForPullRequestGitHub@13b13b5d]" started-at="2022-11-22T11:17:06 IST" name="pullRequest" finished-at="2022-11-22T11:17:06 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pullRequest -->
+      </class> <!-- Demo.PracticeTestForPullRequestGitHub -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
